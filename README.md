@@ -2,8 +2,8 @@
 
 > 🌙 SvelteKit dashboard to manage bots and send commands through nebuline
 
-![SvelteKit](https://img.shields.io/badge/SvelteKit-%E2%9D%A4%EF%B8%8F-orange?logo=svelte)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%23%2338B2AC-lightgrey?logo=tailwindcss)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Issues](https://img.shields.io/github/issues/lunatine-dev/nebuline-frontend)
 ![Stars](https://img.shields.io/github/stars/lunatine-dev/nebuline-frontend?style=social)
@@ -40,6 +40,11 @@ To create a production version of your app:
 ```bash
 npm run build
 ```
+
+## 📦 Related projects
+
+-   **[nebuline](https://github.com/lunatine-dev/nebuline)** – Backend socket relay & API gateway
+-   **[nebuline-host](https://github.com/lunatine-dev/nebuline-host)** – Local client to connect your VRChat bots
 
 ## ⚠️ Disclaimer
 
